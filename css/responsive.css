@@ -1,0 +1,238 @@
+@media (max-width: 800px) {
+header{
+	position:fixed !important;
+	z-index:999 !important;
+	top:0 !important;
+	width:100% !important;
+	}
+.eleman_manset{
+	width:100% !important;
+	margin:10px 0 10px 0 !important;
+}
+.sol{
+	width:100% !important;
+	margin:0 !important;
+	z-index:99 !important;
+	
+	}
+.sag{
+	float:left !important;
+	width:100% !important;
+	margin:0 !important;
+	margin-top:20px !important;
+	}
+.bes_yazi{
+	height:auto;
+	width:95%;
+	display: block !important;
+	margin:0 !important;
+	overflow:hidden !important;
+	padding-bottom:20px;
+	}
+.bes_yazi article.bes_yazi_article{
+	display:inline-block !important;
+	width:100% !important;
+	height:auto !important;
+	overflow: visible !important;
+	padding-left:0 !important;
+	padding-right:0 !important; 
+}
+.bes_yazi article.bes_yazi_article .yazi_ozet{
+	overflow: visible !important;
+	height:auto !important;
+	width:95% !important; 
+}
+.bes_yazi article.bes_yazi_article .yazi_gorsel{
+	width:95% !important;
+	margin:10px 0 10px 0 !important;
+	}
+.buyuk_kat_ozel{
+	width:100% !important;
+	}
+.kategori_ozel h3{
+	width:95% !important; 
+	}
+.kategori_ozel h3 span{
+	display:none !important;
+	}
+article.ikili_yazi{
+	width:95% !important;
+}
+.kategori_ozel:last-child{
+	margin-bottom:20px !important; 
+	}
+footer{
+	width:100% !important;
+	}
+ul.takip_et_header{
+	display:none !important;
+	}
+.kucuk_kat_ozel{
+	width:100% !important;
+	}
+.ozel_link_alani{
+	float:none !important;
+	width:100%;
+	margin-bottom:20px !important;
+
+	}
+.logo img{
+	width:100px;
+	height:75px;
+	}
+.menu_ac{ display:block !important;}
+ul.nav {
+	display:none;
+	margin-top:75px !important;
+	width:95% !important;
+	float: left !important;
+	margin-left:0 !important;
+	margin-bottom:-5px !important; 
+	background:#34495e;
+	border-top:1px solid rgba(189, 195, 199,0.6);
+	position:absolute;
+		}
+ul.nav  li {
+	width:100% !important;
+	display:inline-block !important;
+		}
+ul.nav  li a {
+	padding:15px 10px !important;
+	border-bottom:1px solid rgba(189, 195, 199,0.6);
+	z-index:999;
+		}
+.genel {
+	width:100% !important;
+	padding:0 !important;
+	margin:0 !important;
+	margin-top:70px !important;
+}
+aside ul {
+	width:90% !important;
+	}
+ul.portfolyo li{
+	width:100% !important;
+	}
+}
+@media (max-width: 900px){
+ul.nav {
+	display:none;
+		}
+}
+@media (min-width: 800px) and (max-width:1280px){
+header{
+	position:fixed !important;
+	z-index:999 !important;
+	top:0 !important;
+	width:100% !important;
+	}
+.eleman_manset{
+	width:100% !important;
+	margin:10px 0 10px 0 !important;
+}
+.sol{
+	width:60% !important;
+	margin:0 !important;
+	z-index:99 !important;
+	float:left !important;
+	
+	}
+.sag{
+	float:right !important;
+	width:38% !important;
+	margin:0 !important;
+	margin-top:5px !important;
+	}
+.bes_yazi{
+	height:auto;
+	width:95%;
+	display: block !important;
+	margin:0 !important;
+	overflow:hidden !important;
+	padding-bottom:20px;
+	}
+.bes_yazi article.bes_yazi_article{
+	display:inline-block !important;
+	width:100% !important;
+	height:auto !important;
+	overflow: visible !important;
+	padding-left:0 !important;
+	padding-right:0 !important; 
+}
+.bes_yazi article.bes_yazi_article .yazi_ozet{
+	overflow: visible !important;
+	height:auto !important;
+	width:95% !important; 
+}
+.bes_yazi article.bes_yazi_article .yazi_gorsel{
+	width:95% !important;
+	margin:10px 0 10px 0 !important;
+	}
+.buyuk_kat_ozel{
+	width:100% !important;
+	}
+.kategori_ozel h3{
+	width:95% !important; 
+	}
+.kategori_ozel h3 span{
+	display:none !important;
+	}
+article.ikili_yazi{
+	width:95% !important;
+}
+.kategori_ozel:last-child{
+	margin-bottom:20px !important; 
+	}
+footer{
+	width:100% !important;
+	}
+ul.takip_et_header{
+	display:none !important;
+	}
+.kucuk_kat_ozel{
+	width:100% !important;
+	}
+.ozel_link_alani{
+	float:none !important;
+	width:100%;
+	margin-bottom:20px !important;
+
+	}
+.logo img{
+	width:100px;
+	height:75px;
+	}
+.menu_ac{ display:block !important;}
+ul.nav {
+	display:none;
+	margin-top:75px !important;
+	width:95% !important;
+	float: left !important;
+	margin-left:0 !important;
+	margin-bottom:-5px !important; 
+	background:#34495e;
+	border-top:1px solid rgba(189, 195, 199,0.6);
+	position:absolute;
+		}
+ul.nav  li {
+	width:100% !important;
+	display:inline-block !important;
+		}
+ul.nav  li a {
+	padding:15px 10px !important;
+	border-bottom:1px solid rgba(189, 195, 199,0.6);
+	z-index:999;
+		}
+.genel {
+	width:100% !important;
+	padding:0 !important;
+	margin:0 !important;
+	margin-top:70px !important;
+}
+aside ul {
+	width:90% !important;
+	}
+ul.portfolyo li{
+	width:100% !important;
+	}
+}

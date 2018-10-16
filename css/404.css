@@ -1,0 +1,27 @@
+body{background:#212429;color:#FFFFFF;font-family: 'Exo 2', sans-serif;padding:0;margin:0}
+.baslik{background:url(../img/logo.png) no-repeat center;margin:0 auto;font-weight:900;text-align:center;padding-top:150px;font-size:50px;padding-left:40px;padding-right:40px;padding-bottom:40px;width:400px;}
+.hata{}
+.hata li{list-style:none;text-align:center;line-height:30px;padding:5px;}
+.hata li i{padding-right:10px}
+.hata li.bir{background:#e67e22;}
+.hata li.iki{background:#3498db;}
+.hata li.uc{background:#2ecc71;}
+.hata li.dort{background:#9b59b6;}
+.hata li.bes{background:#e74c3c;}
+.hatarama{background:#9b59b6;border:none;outline: none; color:#FFF; font-size:15px; padding:10px;width:400px; font-weight:700; -webkit-transition: .3s ease-in-out; -moz-transition: .3s ease-in-out; transition: .3s ease-in-out; height:40px; }
+.hatarama:focus {background:#8e44ad;color:#FFF;-webkit-transition: .3s ease-in-out; -moz-transition: .3s ease-in-out; transition: .3s ease-in-out; }
+::-webkit-input-placeholder {
+   color: #FFF;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: #FFF;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #FFF;  
+}
+
+:-ms-input-placeholder {  
+   color: #FFF;  
+}
